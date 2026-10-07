@@ -1,0 +1,6 @@
+Example Run
+
+Enter text: Hello, World!
+Enter shift: 3
+Encrypted: Khoor, Zruog!
+Decrypted: Hello, World!
